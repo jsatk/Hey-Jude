@@ -1,6 +1,7 @@
 // Author: Jesse Atkinson
 // Email: jesse.s.atkinson@gmail.com
 // Twitter: @jessedarko
+// GitHub: https://github.com/jessedarko/Hey-Jude--JS-Remix-
 // Description: My first attempt to have some fun with logic and JavaScript and attempt to
 // use a combination of object literal syntax and arrays to accomplish this. 
 ;(function (window, undefined) {
