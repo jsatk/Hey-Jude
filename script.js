@@ -1,7 +1,7 @@
 // Author: Jesse Atkinson
 // Email: jesse.s.atkinson@gmail.com
 // Twitter: @jsatk
-// GitHub: https://github.com/jessedarko/Hey-Jude--JS-Remix-
+// GitHub: https://github.com/jsatk/Hey-Jude--JS-Remix-
 // Description: My attempt to have some fun with The Beatles and javascript.
 ;(function (window, undefined) {
     "use strict";
